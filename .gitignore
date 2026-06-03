@@ -1,0 +1,4 @@
+build/chroot/
+build/iso/
+*.iso
+*.squashfs
