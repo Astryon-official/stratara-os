@@ -2,3 +2,13 @@ build/chroot/
 build/iso/
 *.iso
 *.squashfs
+
+# Local Cubic and ISO workspaces
+.cubic/
+cubic/
+iso/
+output/
+*.img
+*.vdi
+*.vmdk
+*.qcow2
